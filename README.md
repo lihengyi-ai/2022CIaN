@@ -6,4 +6,4 @@
 4. The file data_split is for pre-processing the dataset ImageNet100: spliting the dataset to be three categories, training set, validation set, and test set.
 5. CIFAR10, CIFAR100 can be obtained online conveniently. In terms of ImageNet100, it can be randomly selected from the whole dataset ImageNet.
 6. If you have any questions about the research, please contact me freely.
-7. Email: gr0468kx@ed.ritsumei.ac.jp.
+7. Email: lihengyi321@gmail.com
